@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Browse Items</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body onload="loadItems()">
+
+<div class="browse-container">
+
+ <h1 style="text-align:center;margin-top:20px;">
+  📦 Browse Items
+</h1>
+
+  <div class="search-box">
+    <input id="searchBox" placeholder="Search item...">
+    <button onclick="searchItems()">Search</button>
+  </div>
+
+  <div id="items" class="items-grid"></div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

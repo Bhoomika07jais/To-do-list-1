@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Post Item</title>
+
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+  <div class="post-container">
+
+    <div class="post-card">
+
+      <h1>📦 Post Lost / Found Item</h1>
+
+      <input
+        type="text"
+        id="name"
+        placeholder="Enter Item Name"
+      >
+
+      <textarea
+        id="description"
+        placeholder="Enter Item Description"
+      ></textarea>
+
+      <input
+        type="text"
+        id="location"
+        placeholder="Enter Location"
+      >
+
+      <select id="status">
+
+        <option value="Lost">
+          Lost
+        </option>
+
+        <option value="Found">
+          Found
+        </option>
+
+      </select>
+
+      <button onclick="postItem()">
+        Post Item
+      </button>
+
+    </div>
+
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

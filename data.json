@@ -1,0 +1,111 @@
+{
+  "users": [
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "bhoomika",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "bhoomika",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    },
+    {
+      "name": "bhoomika",
+      "email": "bhoomika@gmail.com",
+      "password": "345678"
+    }
+  ],
+  "items": [
+    {
+      "name": "compass",
+      "description": "lost my compss\n",
+      "location": "nagpur",
+      "status": "Lost"
+    },
+    {
+      "name": "bag",
+      "description": "my bag is red",
+      "location": "delhi",
+      "status": "Lost"
+    },
+    {
+      "name": "compass",
+      "description": "comapss",
+      "location": "nagpur",
+      "status": "Found"
+    },
+    {
+      "name": "pencil",
+      "description": "red pencil",
+      "location": "Delhi",
+      "status": "Found"
+    },
+    {
+      "name": "Black Phone",
+      "description": "Samsung Phone",
+      "location": "Lobrary",
+      "status": "Lost"
+    },
+    {
+      "name": "compass",
+      "description": "compass things\n\n\n",
+      "location": "mumbaii",
+      "status": "Lost"
+    },
+    {
+      "name": "phone",
+      "description": "my phone colour is blue",
+      "location": "Mumbai",
+      "status": "Lost"
+    }
+  ],
+  "claims": [
+    {
+      "itemId": "123456",
+      "message": "THis phone belongs to me"
+    },
+    {
+      "itemId": "123456",
+      "message": "THis phone belongs to me"
+    },
+    {
+      "itemId": "123456",
+      "message": "THis phone belongs to me"
+    },
+    {
+      "itemId": "123456",
+      "message": "THis phone belongs to me"
+    }
+  ]
+}
