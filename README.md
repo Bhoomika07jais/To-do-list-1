@@ -1,2 +1,2 @@
 to do list
-live link:Published deploy for imaginative-marigold-cddcb2
+live link:https://imaginative-marigold-cddcb2.netlify.app
